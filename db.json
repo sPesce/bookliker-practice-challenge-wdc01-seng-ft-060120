@@ -128,6 +128,10 @@
       "img_url": "http://books.google.com/books/content?id=FLFoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
           "id": 3,
           "username": "marvin"
         },
